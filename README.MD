@@ -8,3 +8,7 @@
 ```
 
 # DSP - Data-Science Media-Player
+
+## Todo
+
+- [] Make langauge binding folders into submodule repos (including core)
